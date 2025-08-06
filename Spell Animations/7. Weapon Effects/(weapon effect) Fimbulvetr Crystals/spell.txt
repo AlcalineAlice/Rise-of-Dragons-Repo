@@ -1,0 +1,55 @@
+C000000
+C000000
+C000000
+C000000
+C000000
+C000000
+C000000
+C000040
+C101029
+C012348
+O spell_o_000.png
+B spell_b_001.png
+1
+
+O spell_o_000.png
+B spell_b_002.png
+1
+
+O spell_o_000.png
+B spell_b_003.png
+1
+
+O spell_o_000.png
+B spell_b_004.png
+1
+
+O spell_o_000.png
+B spell_b_005.png
+1
+
+O spell_o_000.png
+B spell_b_006.png
+1
+
+O spell_o_000.png
+B spell_b_007.png
+1
+
+O spell_o_000.png
+B spell_b_008.png
+1
+
+O spell_o_000.png
+B spell_b_009.png
+1
+
+O spell_o_000.png
+B spell_b_010.png
+1
+
+O spell_o_000.png
+B spell_b_011.png
+30
+
+/// - End of animation
